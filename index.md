@@ -101,8 +101,15 @@ employee:
               achievements:
                 - "Creating illustration and montage for video poems. The most interesting video you can find here https://www.youtube.com/channel/UCIbv4UOezgFNQccjLIKTUdw/videos"
                 - "Creating illustrations for eco project"
-                - "Creating assets for games for Easy Game company"
                 - "Children book illustration"
+            - company: Easybrain LTD
+              position:
+                - 2D Artist
+              date_from: 2020-05-01
+              date_to: 2021-07-30
+              location: Limassol, Cyprus
+              achievements:
+                - "Creating assets for games"
             - company: SYSTEM TECHNOLOGIES JLLC
               position:
                 - Business Analyst
